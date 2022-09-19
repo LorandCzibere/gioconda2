@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/gioconda/lib" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-api-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-chrome-driver-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-chromium-driver-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-devtools-v85-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-devtools-v99-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-devtools-v100-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-devtools-v101-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-edge-driver-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-firefox-driver-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-http-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-ie-driver-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-java-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-json-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-opera-driver-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-remote-driver-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-safari-driver-4.1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-support-4.1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-api-4.1.4-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-chrome-driver-4.1.4-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-chromium-driver-4.1.4-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-devtools-v85-4.1.4-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-devtools-v99-4.1.4-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-devtools-v100-4.1.4-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-devtools-v101-4.1.4-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-edge-driver-4.1.4-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-firefox-driver-4.1.4-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-http-4.1.4-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-ie-driver-4.1.4-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-json-4.1.4-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-opera-driver-4.1.4-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-remote-driver-4.1.4-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-safari-driver-4.1.4-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/gioconda/selenium-support-4.1.4-sources.jar!/" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Downloads/gioconda/lib" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
